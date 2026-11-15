@@ -38,8 +38,8 @@ dev = [
 reddit-stock-trends = "reddit_stock_trends.main:main"
 
 [project.urls]
-Homepage = "https://github.com/boninpo/market-sentiment"
-Repository = "https://github.com/boninpo/market-sentiment"
+Homepage = "https://github.com/ipeo/reddit-stock-trends"
+Repository = "https://github.com/ipeo/reddit-stock-trends"
 
 [tool.setuptools.packages.find]
 where = ["src"]
