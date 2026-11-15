@@ -24,8 +24,8 @@ A read-only Python tool that uses [PRAW](https://praw.readthedocs.io/) (Python R
 ### Install from source
 
 ```bash
-git clone https://github.com/boninpo/market-sentiment.git
-cd market-sentiment
+git clone https://github.com/ipeo/reddit-stock-trends.git
+cd reddit-stock-trends
 pip install -e .
 ```
 
@@ -127,7 +127,7 @@ for post in posts:
 ## Project Structure
 
 ```
-market-sentiment/
+reddit-stock-trends/
 ├── src/
 │   └── reddit_stock_trends/
 │       ├── __init__.py
@@ -204,7 +204,7 @@ TOP 20 MENTIONED TICKERS
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT (declared in `pyproject.toml`).
 
 ## Disclaimer
 
